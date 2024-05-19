@@ -2556,4 +2556,5 @@ local highlights = {
     fg = "#fca7ea"
   }
 }
-  return colors
+
+return colors
