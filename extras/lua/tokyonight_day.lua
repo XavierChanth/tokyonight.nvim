@@ -2557,4 +2557,4 @@ local highlights = {
   }
 }
 
-  return colors
+return colors
