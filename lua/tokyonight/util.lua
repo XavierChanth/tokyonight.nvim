@@ -181,7 +181,6 @@ function M.load(theme)
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = "tokyonight"
 
   M.syntax(theme.highlights)
 
